@@ -7,9 +7,9 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Fatema%20Akter%20Mim&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Web%20Developer%20%7C%20Aspiring%20AI-Powered%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
+ <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F172A,50:2563EB,100:06B6D4&section=header"/>
 </p>
-
 <h1 align="center">Hi 👋, I'm Fatema Akter Mim</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Web+Developer;React+Developer;Next.js+Developer;Aspiring+AI-Powered+Full+Stack+Developer"/>
@@ -17,7 +17,6 @@
 <p align="center">
 Building modern, scalable, and user-focused web applications with React, Next.js, and modern JavaScript technologies.
 </p>
-
 <p align="center">
 
 <!-- ===================================================== -->
@@ -70,25 +69,43 @@ My primary expertise is in **React.js** and **Next.js**, and I'm currently stren
 - 💼 Preparing for Software Engineering Internship opportunities
 
 ---
+
 # 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman,vercel,netlify&perline=8"/>
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
 </p>
 
-<p align="center">
+### Frontend
 
-<img src="https://img.shields.io/badge/Responsive_Design-06B6D4?style=for-the-badge"/>
+<p>
 
-<img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 
-<img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-<img src="https://img.shields.io/badge/MongoDB_Database-47A248?style=for-the-badge&logo=mongodb"/>
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
 
 </p>
 
 ---
+
 
 # 🌟 Featured Projects
 
@@ -193,14 +210,6 @@ A job application tracking platform that helps users organize applications, moni
 
 ---
 # 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mimdev14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimdev14&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
