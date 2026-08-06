@@ -7,9 +7,6 @@
 <!-- ===================================================== -->
 
 <p align="center">
- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F172A,50:2563EB,100:06B6D4&section=header"/>
-</p>
 <h1 align="center">Hi 👋, I'm Fatema Akter Mim</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Web+Developer;React+Developer;Next.js+Developer;Aspiring+AI-Powered+Full+Stack+Developer"/>
