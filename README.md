@@ -49,7 +49,7 @@ Building modern, scalable, and user-focused web applications with React, Next.js
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Web Developer** who enjoys building clean, responsive, and user-friendly web applications.
+I'm a passionate **Full Stack Web Developer** who enjoys building clean, responsive, and user-friendly web applications.
 
 My primary expertise is in **React.js** and **Next.js**, and I'm currently strengthening my backend development skills with **Node.js**, **Express.js**, and **MongoDB**. My long-term goal is to become an **AI-Powered Full Stack Developer**, creating modern web applications that solve real-world problems.
 
