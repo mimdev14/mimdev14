@@ -136,11 +136,11 @@ A modern friendship management platform that helps users organize relationships,
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!--
+
 <a href="YOUR_LIVE_LINK">
 <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel"/>
 </a>
--->
+
 
 </td>
 
@@ -212,11 +212,6 @@ A job application tracking platform that helps users organize applications, moni
 ---
 # 📊 GitHub Analytics
 
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mimdev14&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
