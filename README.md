@@ -1,29 +1,19 @@
-
-
-
 <!-- ===================================================== -->
 <!--                GitHub Profile README                  -->
 <!--             Developed for Fatema Akter Mim            -->
 <!-- ===================================================== -->
 
-<p align="center">
 <h1 align="center">Hi 👋, I'm Fatema Akter Mim</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+Developer;Next.js+Developer;Backend+Developer;Aspiring+AI-Powered+Full+Stack+Developer"/>
-</p>
-<p align="center">
-Building modern, scalable, and user-focused web applications with React, Next.js, and modern JavaScript technologies.
-</p>
-<p align="center">
 
-<!-- ===================================================== -->
-<!-- Enable this button when your portfolio is ready -->
-<!--
-<a href="https://your-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
--->
-<!-- ===================================================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;Software+Engineering+Enthusiast;Exploring+AI+Integration"/>
+</p>
+
+<p align="center">
+  I build modern web applications, solve problems, and continuously explore better ways to build useful software.
+</p>
+
+<p align="center">
 
 <a href="https://fatema-mim-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -49,25 +39,35 @@ Building modern, scalable, and user-focused web applications with React, Next.js
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** who enjoys building clean, responsive, and user-friendly web applications.
+I'm a **Full-Stack Web Developer** and Computer Science graduate who enjoys turning ideas into practical, user-friendly software.
 
-My primary expertise is in **React.js** and **Next.js**, and I'm currently strengthening my backend development skills with **Node.js**, **Express.js**, and **MongoDB**. My long-term goal is to become an **AI-Powered Full Stack Developer**, creating modern web applications that solve real-world problems.
+My strongest foundation is in **frontend development**, especially with **React.js, Next.js, and JavaScript**. Alongside frontend development, I work with **Node.js, Express.js, MongoDB, REST APIs, authentication, CRUD operations, and third-party integrations** to build complete web applications.
+
+I'm also growing toward **software engineering**, with a focus on understanding how applications work beyond the interface — from frontend and backend logic to data, APIs, and overall application structure.
+
+Currently, I'm exploring **AI integration in software development**, especially how AI can be used thoughtfully to make web applications smarter, more useful, and more efficient.
+
+I believe in learning by building, solving problems, and taking responsibility for the things I create.
 
 - 🎓 B.Sc. in Computer Science & Engineering
-- 💻 Passionate about modern web technologies
-- 🚀 Love building scalable and responsive applications
-- 📚 Continuous learner with a growth mindset
-- 🤝 Open to internship and collaboration opportunities
+- 💻 Full-Stack Web Developer
+- ⚛️ Strong foundation in React.js & Next.js
+- 🔧 Building and strengthening backend skills
+- 🤖 Exploring practical AI integration
+- 🧠 Interested in software engineering
+- 🚀 Always learning, building, and exploring
 
 ---
 
-# 🚀 Current Activities
+# 🚀 Current Focus
 
-- 🌱 Learning **Backend Development & AI Integration**
-- ⚛️ Building Full Stack applications using **Next.js**
-- 🛠 Exploring **Node.js, Express.js & MongoDB**
-- 📖 Improving problem-solving and JavaScript skills
-- 💼 Preparing for Software Engineering Internship opportunities
+- ⚛️ Building modern applications with **React.js & Next.js**
+- 🔧 Strengthening **Node.js, Express.js & MongoDB**
+- 🌐 Building and integrating **RESTful APIs**
+- 🔐 Working with **authentication & authorization**
+- 🧩 Improving software engineering fundamentals
+- 🤖 Exploring **AI integration in web applications**
+- 📚 Learning through real-world projects and problem solving
 
 ---
 
@@ -76,142 +76,158 @@ My primary expertise is in **React.js** and **Next.js**, and I'm currently stren
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
-### Backend
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+### Authentication & Services
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+`Better Auth` `Firebase Auth` `Google OAuth` `Stripe`
 
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,vite,figma"/>
 </p>
 
 ---
-
 
 # 🌟 Featured Projects
 
-<table>
-<tr>
+## 🍳 RecipeHub — Recipe Sharing Platform
 
-<td width="50%">
+A full-stack recipe-sharing platform where users can discover, create, and manage recipes while interacting with a community-driven system.
 
-## 🧠 KeenKeeper
+### 🚀 Highlights
 
-A modern friendship management platform that helps users organize relationships, track interactions, and manage friendship goals through a clean and intuitive interface.
-
-### 🚀 Features
-
-- Friendship status tracking
-- Interaction history
-- Goal management
-- Responsive UI
+- 🔎 Recipe search and filtering
+- 👤 User dashboards and protected functionality
+- 🔐 Authentication with Better Auth
+- 🛡️ Role-based access control
+- 💳 Stripe payment integration
+- 🌐 RESTful API integration
+- 📱 Responsive user interface
 
 **Tech Stack**
 
-`Next.js` `Tailwind CSS`
+`Next.js` `Express.js` `MongoDB` `Better Auth` `Stripe`
 
-<br>
-
-<a href="https://github.com/mimdev14/keenkeeper">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://recipehub-client-gilt.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel"/>
+<a href="https://github.com/mimdev14/recipehub-client-.git">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-
-</td>
-
-<td width="50%">
-
-## 🛠 DV Tools
-
-A privacy-focused developer toolkit providing useful utilities with fast client-side processing for better security and performance.
-
-### 🚀 Features
-
-- Client-side processing
-- Fast performance
-- Developer utilities
-- Privacy-first architecture
-
-**Tech Stack**
-
-`React.js` `Tailwind CSS`
-
-<br>
-
-<a href="https://github.com/mimdev14/DV-Tools">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/mimdev14/recipehub_server.git">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<!--
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel"/>
-</a>
--->
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-## 💼 Track Job
+## 💼 JobNest — Job Hiring Platform
 
-A job application tracking platform that helps users organize applications, monitor progress, manage follow-ups, and streamline their job search.
+A full-stack job hiring platform designed to connect job seekers and employers through a structured and responsive web experience.
 
-### 🚀 Features
+### 🚀 Highlights
 
-- Application dashboard
-- Status management
-- Follow-up tracking
-- Organized workflow
+- 💼 Job discovery and management
+- 🔎 Dynamic filtering
+- 🔄 CRUD-based job workflows
+- 🔐 Authentication and protected routes
+- 🌐 RESTful APIs
+- 📱 Responsive interface
+- 🗄️ MongoDB-based data management
 
 **Tech Stack**
 
-`HTML`
-`Tailwind CSS`
-`JavaScript`
+`Next.js` `Express.js` `MongoDB` `Better Auth` `Stripe`
 
-<br>
-
-<a href="https://github.com/mimdev14/Job-Application-Tracker">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://job-nest-rosy.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<!--
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel"/>
+<a href="https://github.com/mimdev14/JobNest.git">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
--->
+
+<a href="https://github.com/mimdev14/JobNest-server.git">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
+
+## 📚 StudyNook — Library Study Room Booking Platform
+
+A full-stack platform for discovering and booking available library study rooms through a simple and responsive interface.
+
+### 🚀 Highlights
+
+- 📚 Study room discovery
+- 📅 Room booking functionality
+- 🔐 Authentication and protected features
+- 🔄 CRUD operations
+- 🌐 REST API integration
+- 🗄️ MongoDB data management
+- 📱 Responsive frontend
+
+**Tech Stack**
+
+`Next.js` `Express.js` `MongoDB` `Better Auth` `Stripe`
+
+<a href="https://studynook-client-zeta.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mimdev14/studynook-client.git">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mimdev14/studyNook_server.git">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+# 🧠 What I Enjoy
+
+- 🧩 Solving problems and figuring things out independently
+- 🏗️ Building complete web applications
+- 🎨 Creating clean and responsive interfaces
+- 🔧 Understanding how frontend and backend work together
+- 📚 Learning technologies by building real projects
+- 🤖 Exploring practical AI applications
+
+> I love getting stuck on a problem and figuring it out myself.
+> Just not when there's a deadline chasing me. 😄
+
+---
+
+# 🎯 Career Direction
+
+I'm working toward becoming a **Software Engineer** with strong web development foundations and the ability to integrate AI into real-world software.
+
+My goal is to build software that is not only functional, but also **useful, maintainable, and thoughtfully designed**.
+
+---
+
 # 📊 GitHub Analytics
-
 
 <p align="center">
 
@@ -220,30 +236,48 @@ A job application tracking platform that helps users organize applications, moni
 </p>
 
 ---
-> ## 🎯 Core Skills
 
-✔ Responsive Web Development
+# 🌱 Beyond Code
 
-✔ REST API Integration
+When I'm away from development, I enjoy:
 
-✔ Authentication & Authorization
+📚 Reading books  
+✍️ Writing my thoughts  
+🌱 Spending time with plants and nature  
+🎬 Watching movies and enjoying good stories  
 
-✔ CRUD Applications
+---
 
-✔ Responsive UI/UX
+# 🤝 Let's Connect
 
-✔ Git & GitHub Workflow
+I'm open to **internship opportunities, collaborations, and meaningful software projects**.
+
+If you're building something interesting or simply want to connect, feel free to reach out.
+
+<p align="center">
+
+<a href="mailto:fatemaaktermim1031@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fatemaaktermim/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-## 💙 Thanks for Visiting!
+### 💙 Thanks for visiting!
 
-*"Building meaningful digital experiences through clean code, continuous learning, and modern web technologies."*
+**Still learning. Still building. Still exploring.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
 </div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mimdev14&label=Profile%20Views&color=2563EB&style=for-the-badge" />
 </p>
-
-
