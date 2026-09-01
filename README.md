@@ -1,199 +1,163 @@
-# Hi, I'm Fatema Akter Mim
+<h1 align="center">Fatema Akter Mim</h1>
 
-### Full-Stack Web Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React.js+%26+Next.js+Developer;Software+Engineering+Enthusiast;Exploring+AI+Integration"/>
+</p>
 
-- Email: fatemaaktermim1031@gmail.com
-- GitHub: [@mimdev14](https://github.com/mimdev14)
-- LinkedIn: [Fatema Akter Mim](YOUR_LINKEDIN_URL)
-- Portfolio: [Fatema Akter Mim](YOUR_PORTFOLIO_URL)
+<p align="center">
+  Recent Computer Science & Engineering graduate passionate about building responsive, full-stack web applications and exploring modern software solutions.
+</p>
+
+<p align="center">
+
+<a href="https://fatema-mim-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fatemaaktermim/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mimdev14">
+<img src="https://img.shields.io/badge/GitHub-mimdev14-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:fatemaaktermim1031@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ## About Me
 
-I'm a Computer Science & Engineering graduate and Full-Stack Web Developer focused on building modern, responsive, and practical web applications.
+Full-Stack Web Developer and Computer Science graduate based in Barisal, Bangladesh.
 
-- Frontend development with React.js and Next.js
-- Backend development with Node.js and Express.js
-- Database management with MongoDB
-- RESTful API development
-- Authentication and authorization
-- CRUD operations
-- Third-party service integration
-- Deployment and hosting
-
-I'm currently looking for an internship or entry-level opportunity where I can contribute to real-world projects, learn from experienced developers, and grow as a software engineer.
+* **Education:** B.Sc. in Computer Science & Engineering, National University, Bangladesh (April 2026)
+* **Certification:** Complete Web Development Course from Programming Hero (Batch 13)
+* **Frontend Focus:** React.js, Next.js, JavaScript (ES6+), and Tailwind CSS
+* **Backend Skills:** Node.js, Express.js, MongoDB, RESTful APIs, and Authentication
+* **Career Objective:** Seeking an internship or entry-level opportunity to contribute to real-world software engineering projects
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Next.js
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT
-- Middleware
-- CRUD Operations
-
-### Database & Authentication
-
-- MongoDB
-- Better Auth
-- Firebase Auth
-- Google OAuth
-
-### Tools & Platforms
-
-- Git
-- GitHub
-- Postman
-- Vercel
-- Netlify
-- Vite
-- Figma
+* **Frontend:** React.js, Next.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+* **Backend & Database:** Node.js, Express.js, RESTful APIs, MongoDB, JWT, Middleware, CRUD Operations
+* **Authentication & Services:** Better Auth, Firebase Auth, Google OAuth, Stripe
+* **Tools & Platforms:** Git, GitHub, Postman, Vercel, Netlify, Vite, Figma
 
 ---
 
 ## Featured Projects
 
-### RecipeHub — Recipe Sharing Platform
+### RecipeHub - Recipe Sharing Platform
 
-**Tech Stack:**
+Architected and deployed a full-stack recipe platform featuring custom search filtering, user dashboards, and interactive community recipe sharing.
 
-- Next.js
-- Express.js
-- MongoDB
-- Better Auth
-- Stripe
+* **Key Features:** Role-based access control (RBAC), protected API routes, and OAuth/credentials authentication via Better Auth.
+* **Integrations:** Stripe Payment Gateway integration, CORS management, and environment configuration.
+* **Tech Stack:** Next.js, Express.js, MongoDB, Better Auth, Stripe
 
-**Key Features:**
-
-- Custom search and filtering
-- User dashboards
-- Interactive recipe sharing
-- Role-Based Access Control (RBAC)
-- Protected API routes
-- OAuth and credentials authentication
-- Stripe payment integration
-- Client-server integration
-- Environment configuration and CORS handling
-
-**Links:**
-
-- [Live Demo](YOUR_RECIPEHUB_LIVE_LINK)
-- [Client Repository](https://github.com/mimdev14/recipehub-client-)
-- [Server Repository](https://github.com/mimdev14/recipehub_server)
+<a href="https://recipehub-client-gilt.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/mimdev14/recipehub-client-.git">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/mimdev14/recipehub_server.git">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### JobNest — Job Hiring Platform
+### JobNest - Job Hiring Platform
 
-**Tech Stack:**
+Built a full-stack job hiring platform with structured, responsive interfaces for job seekers and employers.
 
-- Next.js
-- Express.js
-- MongoDB
-- Better Auth
-- Stripe
+* **Key Features:** Engineered RESTful APIs using Express.js and MongoDB for rapid data retrieval, complex filtering, and dynamic CRUD operations.
+* **Authentication:** Implemented authentication and protected functionality using Better Auth.
+* **Tech Stack:** Next.js, Express.js, MongoDB, Better Auth, Stripe
 
-**Key Features:**
-
-- Responsive interfaces for job seekers and employers
-- RESTful APIs
-- MongoDB data management
-- Data retrieval and filtering
-- Dynamic CRUD operations
-- Authentication
-- Protected functionality
-- Reusable component-based development
-
-**Links:**
-
-- [Live Demo](YOUR_JOBNEST_LIVE_LINK)
-- [Client Repository](https://github.com/mimdev14/JobNest)
-- [Server Repository](https://github.com/mimdev14/JobNest-server)
+<a href="https://job-nest-rosy.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/mimdev14/JobNest.git">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/mimdev14/JobNest-server.git">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### StudyNook — Library Study Room Booking Platform
+### StudyNook - Library Study Room Booking Platform
 
-**Tech Stack:**
+Developed a full-stack platform designed for discovering and booking available library study rooms.
 
-- Next.js
-- Express.js
-- MongoDB
-- Better Auth
-- Stripe
+* **Key Features:** Responsive frontend interfaces, REST API integration, and MongoDB data management.
+* **Functionality:** Authentication workflows and protected user features with CRUD operations.
+* **Tech Stack:** Next.js, Express.js, MongoDB, Better Auth, Stripe
 
-**Key Features:**
-
-- Library study room discovery
-- Study room booking
-- Responsive frontend interfaces
-- REST APIs
-- MongoDB data management
-- Authentication
-- Protected user functionality
-- CRUD operations
-- Client-server integration
-
-**Links:**
-
-- [Live Demo](YOUR_STUDYNOOK_LIVE_LINK)
-- [Client Repository](https://github.com/mimdev14/studynook-client)
-- [Server Repository](https://github.com/mimdev14/studyNook_server)
-
----
-
-## Core Development Skills
-
-- Responsive Web Design
-- Component-Based Development
-- REST API Development
-- CRUD Operations
-- Authentication & Authorization
-- Role-Based Access Control
-- Database Integration
-- Client-Server Integration
-- Third-Party Service Integration
-- Git Version Control
-- Debugging
-- Problem Solving
-- Deployment & Hosting
-
----
-
-## Current Goals
-
-- Strengthen full-stack development skills
-- Improve backend engineering fundamentals
-- Build more real-world applications
-- Improve software engineering practices
-- Explore practical AI integration
-- Gain professional experience through an internship or entry-level opportunity
+<a href="https://studynook-client-zeta.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/mimdev14/studynook-client.git">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/mimdev14/studyNook_server.git">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ## Areas of Interest
 
-- Full-Stack Web Development
-- AI Integration
-- Software Engineering
+* Full-Stack Web Development
+* AI Integration
+* Software Engineering
 
 ---
 
 ## Languages
 
-- Bangla — Native
-- English — Conversational
+* **Bangla:** Native
+* **English:** Conversational
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimdev14&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="mailto:fatemaaktermim1031@gmail.com">
+<img src="https://img.shields.io/badge/Email-fatemaaktermim1031%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fatemaaktermim/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
+
+</div>
