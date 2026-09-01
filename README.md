@@ -36,8 +36,6 @@
 
 Full-Stack Web Developer and Computer Science graduate based in Barisal, Bangladesh.
 
-* **Education:** B.Sc. in Computer Science & Engineering, National University, Bangladesh (April 2026)
-* **Certification:** Complete Web Development Course from Programming Hero (Batch 13)
 * **Frontend Focus:** React.js, Next.js, JavaScript (ES6+), and Tailwind CSS
 * **Backend Skills:** Node.js, Express.js, MongoDB, RESTful APIs, and Authentication
 * **Career Objective:** Seeking an internship or entry-level opportunity to contribute to real-world software engineering projects
@@ -46,10 +44,29 @@ Full-Stack Web Developer and Computer Science graduate based in Barisal, Banglad
 
 ## Technical Skills
 
-* **Frontend:** React.js, Next.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
-* **Backend & Database:** Node.js, Express.js, RESTful APIs, MongoDB, JWT, Middleware, CRUD Operations
-* **Authentication & Services:** Better Auth, Firebase Auth, Google OAuth, Stripe
-* **Tools & Platforms:** Git, GitHub, Postman, Vercel, Netlify, Vite, Figma
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Authentication & Services
+<p>
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vite,figma" />
+</p>
 
 ---
 
