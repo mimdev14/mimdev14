@@ -30,21 +30,27 @@
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-## About Me
-
 I'm a Computer Science & Engineering graduate and Full-Stack Web Developer focused on building modern, responsive, and practical web applications.
 
-- Frontend development with React.js and Next.js
-- Backend development with Node.js and Express.js
-- Database management with MongoDB
-- RESTful API development
-- Authentication and authorization
-- CRUD operations
-- Third-party service integration
-- Deployment and hosting
+Frontend development with React.js and Next.js
+
+Backend development with Node.js and Express.js
+
+Database management with MongoDB
+
+RESTful API development
+
+Authentication and authorization
+
+CRUD operations
+
+Third-party service integration
+
+Deployment and hosting
+
+
 
 I'm currently looking for an internship or entry-level opportunity where I can contribute to real-world projects, learn from experienced developers, and grow as a software engineer.
----
 
 ## Technical Skills
 
