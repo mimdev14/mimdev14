@@ -1,167 +1,199 @@
-<div align="center">
-  <h1>Hi 👋, I'm Fatema Akter Mim</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Next.js+%26+React+Specialist;MERN+Stack+Developer;AI-Powered+Web+Solutions" alt="Typing SVG" />
-  </a>
-  
-  <p>
-    Building modern, scalable, and user-focused web applications with React, Next.js, Node.js, and MongoDB.
-  </p>
+# Hi, I'm Fatema Akter Mim
 
-  <p>
-    <a href="https://fatema-mim-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/fatemaaktermim/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/mimdev14">
-      <img src="https://img.shields.io/badge/GitHub-mimdev14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:fatemaaktermim1031@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
-</div>
+### Full-Stack Web Developer
+
+- Email: fatemaaktermim1031@gmail.com
+- GitHub: [@mimdev14](https://github.com/mimdev14)
+- LinkedIn: [Fatema Akter Mim](YOUR_LINKEDIN_URL)
+- Portfolio: [Fatema Akter Mim](YOUR_PORTFOLIO_URL)
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+## About Me
 
-## 👩‍💻 About Me
+I'm a Computer Science & Engineering graduate and Full-Stack Web Developer focused on building modern, responsive, and practical web applications.
 
-I'm a **Full-Stack Web Developer** specializing in building fast, responsive, and scalable web applications using the MERN stack and Next.js.
+- Frontend development with React.js and Next.js
+- Backend development with Node.js and Express.js
+- Database management with MongoDB
+- RESTful API development
+- Authentication and authorization
+- CRUD operations
+- Third-party service integration
+- Deployment and hosting
 
-- [cite_start]🎓 **Education:** B.Sc. in Computer Science & Engineering (2026) [cite: 31, 32]
-- [cite_start]💻 **Core Expertise:** React.js, Next.js, Node.js, Express.js, and MongoDB [cite: 4]
-- [cite_start]🔐 **Security & Payments:** Better Auth, JWT, OAuth, and Stripe Integration [cite: 9, 16]
-- 🚀 **Current Focus:** Exploring AI integration to build smarter, data-driven web applications
-- [cite_start]🤝 **Goal:** Open to Full-Stack/Frontend Developer roles, internships, and open-source collaboration [cite: 6]
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <b>Languages & Frontend:</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend Tech Stack" />
-</p>
-
-<p align="left">
-  <b>Backend & Database:</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Tech Stack" />
-</p>
-
-<p align="left">
-  <b>Tools & Deployment:</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" alt="Tools Tech Stack" />
-</p>
+I'm currently looking for an internship or entry-level opportunity where I can contribute to real-world projects, learn from experienced developers, and grow as a software engineer.
 
 ---
 
-## 🌟 Featured Projects
+## Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Frontend
 
-### 🍳 RecipeHub
-[cite_start]An interactive recipe sharing platform featuring RBAC security, dashboard management, and Stripe integration. [cite: 11, 14, 15, 16]
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- Tailwind CSS
 
-[cite_start]**Tech Stack:** `Next.js` `Express.js` `MongoDB` `Better Auth` `Stripe` [cite: 12]
+### Backend
 
-<br/>
+- Node.js
+- Express.js
+- RESTful APIs
+- JWT
+- Middleware
+- CRUD Operations
 
-<a href="https://github.com/mimdev14" target="_blank">
-  <img src="https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github" alt="Client Repo"/>
-</a>
-<a href="https://github.com/mimdev14" target="_blank">
-  <img src="https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github" alt="Server Repo"/>
-</a>
-<a href="https://your-live-demo-link.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-</a>
+### Database & Authentication
 
-</td>
-<td width="50%" valign="top">
+- MongoDB
+- Better Auth
+- Firebase Auth
+- Google OAuth
 
-### 💼 JobNest
-[cite_start]A dual-portal job hiring platform for employers to post opportunities and job seekers to track applications. [cite: 17, 20]
+### Tools & Platforms
 
-**Tech Stack:** `Next.js` `Express.js` `MongoDB` `Better Auth` `Tailwind CSS`
-
-<br/>
-
-<a href="https://github.com/mimdev14" target="_blank">
-  <img src="https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github" alt="Client Repo"/>
-</a>
-<a href="https://github.com/mimdev14" target="_blank">
-  <img src="https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github" alt="Server Repo"/>
-</a>
-<a href="https://your-live-demo-link.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 StudyNook
-[cite_start]A study room booking platform that lets university students check real-time availability and reserve spaces. [cite: 24, 28]
-
-**Tech Stack:** `Next.js` `Express.js` `MongoDB` `Better Auth`
-
-<br/>
-
-<a href="https://github.com/mimdev14" target="_blank">
-  <img src="https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github" alt="Client Repo"/>
-</a>
-<a href="https://github.com/mimdev14" target="_blank">
-  <img src="https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github" alt="Server Repo"/>
-</a>
-<a href="https://your-live-demo-link.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 KeenKeeper
-A modern friendship management platform designed to track interactions, organize contacts, and set social goals.
-
-**Tech Stack:** `Next.js` `Tailwind CSS`
-
-<br/>
-
-<a href="https://github.com/mimdev14/keenkeeper" target="_blank">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github" alt="Repository"/>
-</a>
-
-</td>
-</tr>
-</table>
+- Git
+- GitHub
+- Postman
+- Vercel
+- Netlify
+- Vite
+- Figma
 
 ---
 
-## 📊 GitHub Analytics
+## Featured Projects
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimdev14&theme=tokyo-night" alt="Activity Graph"/>
-</p>
+### RecipeHub — Recipe Sharing Platform
+
+**Tech Stack:**
+
+- Next.js
+- Express.js
+- MongoDB
+- Better Auth
+- Stripe
+
+**Key Features:**
+
+- Custom search and filtering
+- User dashboards
+- Interactive recipe sharing
+- Role-Based Access Control (RBAC)
+- Protected API routes
+- OAuth and credentials authentication
+- Stripe payment integration
+- Client-server integration
+- Environment configuration and CORS handling
+
+**Links:**
+
+- [Live Demo](YOUR_RECIPEHUB_LIVE_LINK)
+- [Client Repository](https://github.com/mimdev14/recipehub-client-)
+- [Server Repository](https://github.com/mimdev14/recipehub_server)
 
 ---
 
-<div align="center">
+### JobNest — Job Hiring Platform
 
-## 💙 Thanks for Visiting!
+**Tech Stack:**
 
-*"Building meaningful digital experiences through clean code, continuous learning, and modern web technologies."*
+- Next.js
+- Express.js
+- MongoDB
+- Better Auth
+- Stripe
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4" alt="Footer Wave"/>
+**Key Features:**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mimdev14&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
-</p>
+- Responsive interfaces for job seekers and employers
+- RESTful APIs
+- MongoDB data management
+- Data retrieval and filtering
+- Dynamic CRUD operations
+- Authentication
+- Protected functionality
+- Reusable component-based development
 
-</div>
+**Links:**
+
+- [Live Demo](YOUR_JOBNEST_LIVE_LINK)
+- [Client Repository](https://github.com/mimdev14/JobNest)
+- [Server Repository](https://github.com/mimdev14/JobNest-server)
+
+---
+
+### StudyNook — Library Study Room Booking Platform
+
+**Tech Stack:**
+
+- Next.js
+- Express.js
+- MongoDB
+- Better Auth
+- Stripe
+
+**Key Features:**
+
+- Library study room discovery
+- Study room booking
+- Responsive frontend interfaces
+- REST APIs
+- MongoDB data management
+- Authentication
+- Protected user functionality
+- CRUD operations
+- Client-server integration
+
+**Links:**
+
+- [Live Demo](YOUR_STUDYNOOK_LIVE_LINK)
+- [Client Repository](https://github.com/mimdev14/studynook-client)
+- [Server Repository](https://github.com/mimdev14/studyNook_server)
+
+---
+
+## Core Development Skills
+
+- Responsive Web Design
+- Component-Based Development
+- REST API Development
+- CRUD Operations
+- Authentication & Authorization
+- Role-Based Access Control
+- Database Integration
+- Client-Server Integration
+- Third-Party Service Integration
+- Git Version Control
+- Debugging
+- Problem Solving
+- Deployment & Hosting
+
+---
+
+## Current Goals
+
+- Strengthen full-stack development skills
+- Improve backend engineering fundamentals
+- Build more real-world applications
+- Improve software engineering practices
+- Explore practical AI integration
+- Gain professional experience through an internship or entry-level opportunity
+
+---
+
+## Areas of Interest
+
+- Full-Stack Web Development
+- AI Integration
+- Software Engineering
+
+---
+
+## Languages
+
+- Bangla — Native
+- English — Conversational
