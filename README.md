@@ -34,12 +34,18 @@
 
 ## About Me
 
-Full-Stack Web Developer and Computer Science graduate based in Barisal, Bangladesh.
+I'm a Computer Science & Engineering graduate and Full-Stack Web Developer focused on building modern, responsive, and practical web applications.
 
-* **Frontend Focus:** React.js, Next.js, JavaScript (ES6+), and Tailwind CSS
-* **Backend Skills:** Node.js, Express.js, MongoDB, RESTful APIs, and Authentication
-* **Career Objective:** Seeking an internship or entry-level opportunity to contribute to real-world software engineering projects
+- Frontend development with React.js and Next.js
+- Backend development with Node.js and Express.js
+- Database management with MongoDB
+- RESTful API development
+- Authentication and authorization
+- CRUD operations
+- Third-party service integration
+- Deployment and hosting
 
+I'm currently looking for an internship or entry-level opportunity where I can contribute to real-world projects, learn from experienced developers, and grow as a software engineer.
 ---
 
 ## Technical Skills
@@ -151,7 +157,7 @@ Developed a full-stack platform designed for discovering and booking available l
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimdev14&theme=tokyo-night"/>
+<img width="95%" src="(https://github.com/mimdev14)/graph?username=mimdev14&theme=tokyo-night"/>
 
 </p>
 
