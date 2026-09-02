@@ -157,15 +157,7 @@ Developed a full-stack platform designed for discovering and booking available l
 
 ---
 
-## GitHub Analytics
 
-<p align="center">
-
-<img width="95%" src="(https://github.com/mimdev14)/graph?username=mimdev14&theme=tokyo-night"/>
-
-</p>
-
----
 
 ## Connect With Me
 
