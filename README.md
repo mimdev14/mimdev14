@@ -21,7 +21,9 @@
 <a href="https://github.com/mimdev14">
 <img src="https://img.shields.io/badge/GitHub-mimdev14-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatemaaktermim1031@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 
 </p>
