@@ -11,21 +11,20 @@
 <p align="center">
 
 <a href="https://fatema-mim-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=2DD4BF&labelColor=0D1117&color=2DD4BF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/fatemaaktermim/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0D1117&color=2DD4BF"/>
 </a>
 
 <a href="https://github.com/mimdev14">
-<img src="https://img.shields.io/badge/GitHub-mimdev14-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-mimdev14-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0D1117&color=2DD4BF"/>
 </a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatemaaktermim1031@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=0D1117&color=2DD4BF"/>
 </a>
-
-
 </p>
 
 ---
