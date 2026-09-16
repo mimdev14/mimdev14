@@ -103,26 +103,6 @@ Architected and deployed a full-stack recipe platform featuring custom search fi
 
 ---
 
-### JobNest - Job Hiring Platform
-
-Built a full-stack job hiring platform with structured, responsive interfaces for job seekers and employers.
-
-* **Key Features:** Engineered RESTful APIs using Express.js and MongoDB for rapid data retrieval, complex filtering, and dynamic CRUD operations.
-* **Authentication:** Implemented authentication and protected functionality using Better Auth.
-* **Tech Stack:** Next.js, Express.js, MongoDB, Better Auth, Stripe
-
-<a href="https://job-nest-rosy.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/mimdev14/JobNest.git">
-<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/mimdev14/JobNest-server.git">
-<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
 ### StudyNook - Library Study Room Booking Platform
 
 Developed a full-stack platform designed for discovering and booking available library study rooms.
