@@ -79,49 +79,6 @@ I'm currently looking for an internship or entry-level opportunity where I can c
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vite,figma" />
 </p>
 
----
-
-## Featured Projects
-
-### RecipeHub - Recipe Sharing Platform
-
-Architected and deployed a full-stack recipe platform featuring custom search filtering, user dashboards, and interactive community recipe sharing.
-
-* **Key Features:** Role-based access control (RBAC), protected API routes, and OAuth/credentials authentication via Better Auth.
-* **Integrations:** Stripe Payment Gateway integration, CORS management, and environment configuration.
-* **Tech Stack:** Next.js, Express.js, MongoDB, Better Auth, Stripe
-
-<a href="https://recipehub-client-gilt.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/mimdev14/recipehub-client-.git">
-<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/mimdev14/recipehub_server.git">
-<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### StudyNook - Library Study Room Booking Platform
-
-Developed a full-stack platform designed for discovering and booking available library study rooms.
-
-* **Key Features:** Responsive frontend interfaces, REST API integration, and MongoDB data management.
-* **Functionality:** Authentication workflows and protected user features with CRUD operations.
-* **Tech Stack:** Next.js, Express.js, MongoDB, Better Auth, Stripe
-
-<a href="https://studynook-client-zeta.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/mimdev14/studynook-client.git">
-<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/mimdev14/studyNook_server.git">
-<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
 
 ## Areas of Interest
 
